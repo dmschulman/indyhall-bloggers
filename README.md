@@ -22,3 +22,4 @@ Feel free to list multiple sites!
 | Jag Talon              | Adventures in technology.  | https://jagtalon.com             | https://jagtalon.com/feed/              |
 | Mike Zornek            | Personal Blog              | http://mikezornek.com            | http://mikezornek.com/posts/index.xml   |
 | Mike Zornek            | Guildflow (Product Blog)   | https://guildflow.com            | https://guildflow.com/blog/index.xml    |
+| David Schulman         | dmschulman.com             | https://dmschulman.com           | https://dmschulman.com/feed             |
